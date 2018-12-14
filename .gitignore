@@ -1,2 +1,4 @@
 *.o
 *.a
+src/xengine/.vscode/launch.json
+src/xengine/.vscode/settings.json
