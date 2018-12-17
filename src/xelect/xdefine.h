@@ -18,7 +18,6 @@
 #include <xasio/asio.hpp>
 
 #include "xelect2/xelect_intf.h"
-#include "xlog2.h"
 #include "xconfig.hpp"
 
 NS_BEG2(top, elect2)
